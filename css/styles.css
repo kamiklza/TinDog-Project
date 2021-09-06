@@ -54,3 +54,27 @@ h1 {
   transform: rotate(16deg);
   width: 60%;
 }
+
+
+/* Feature Section */
+
+#features{
+  padding: 6% 15%;
+  text-align: center;
+  font-family: 'Montserrat';
+
+}
+
+.fas{
+  padding: 0 0 6%;
+  color: #FF6C83;
+}
+
+.fas:hover{
+  color: #ff4c68;
+}
+
+#features h3{
+  padding: 1% 0;
+  font-weight: 700;
+}
